@@ -3,7 +3,7 @@ import asyncio
 
 client = discord.Client()
 
-token="NzkzMDk1NDQ0MjQ2NjkxODcx.X-nRsA.QYiXa-LeBOhziZdKa-nRYoj4aQg"
+token="NzkzMDk1NDQ0MjQ2NjkxODcx.X-nRsA.QYiXa-LeBOhziZdKa-nRYoj4aQg" 
 
 
 @client.event
